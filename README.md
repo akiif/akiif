@@ -1,21 +1,8 @@
-<h1 align="center">Hi, I'm Akif</h1>
+![Header](./images/header.png)
 
-<!--
-**akiif/akiif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 💻My Technical Skills
+<h2 align="center">My Tech Stack  🧰</h2>
 
 <p align="center">
  
@@ -30,16 +17,50 @@ Here are some ideas to get you started:
   <!--
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- -->
+-->
  </p>
 
 
-## Let's Connect Here👇:
+---
 
-<div align="center">
+<h2 align="center">My Tools ⚙️ </h2>
+<p align="center">
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://github.com/arpanaditya">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
 
-<a  href="https://www.linkedin.com/in/akif-mohammed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:akif.hmohd@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://twitter.com/zodyto" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+</p>
 
-</div>
+---
+
+<h2 align="center"> GitHub Overview </h2>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiif&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=akiif&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+[![Akif's github activity graph](https://activity-graph.herokuapp.com/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
+
+---
+<h2 align="center"> Let's connect! </h2>
+<p align="center">
+<a href="https://www.akif.tech/"><img align="center" width="30px" src="images/website.png" /></a> &nbsp;&nbsp; <a href="mailto:akiif.dev@gmail.com"><img align="center" width="30px" src="images/mail.png" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akif-mohammed/"><img align="center" width="30px" src="images/linkedin.png" /></a> &nbsp;&nbsp;  
+<a href="https://twitter.com/zodyto"><img align="center" width="30px" src="images/twitter.png" /></a> &nbsp;&nbsp; 
+<a href="https://www.instagram.com/zodyto/"><img align="center" width="30px" src="images/instagram.png" /></a>
+</p>
