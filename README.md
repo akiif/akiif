@@ -54,7 +54,15 @@
   </tr>
 </table>
 
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiif&theme=gruvbox_duo)](https://git.io/streak-stats)
+
+</div>
+
 [![Akif's github activity graph](https://activity-graph.herokuapp.com/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
+
+
 
 ---
 <h2 align="center"> Let's connect! </h2>
