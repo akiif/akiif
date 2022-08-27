@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiif&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiif&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 </div>
 
