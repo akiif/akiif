@@ -58,7 +58,7 @@
 
 </div>
 
-[![Akif's github activity graph](https://activity-graph.herokuapp.com/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
+[![Akif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
 
 ---
 
