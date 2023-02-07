@@ -5,37 +5,35 @@
 <h2 align="center">My Tech Stack  🧰</h2>
 
 <p align="center">
- 
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> -->
- <!-- <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> -->
- </p>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> -->
+  <!-- <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> -->
+</p>
 
 ---
 
 <h2 align="center">My Tools ⚙️ </h2>
 <p align="center">
-<a href="https://git-scm.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://github.com/arpanaditya">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-
+  <a href="https://git-scm.com">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://github.com/arpanaditya">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ---
@@ -64,8 +62,8 @@
 
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
-<a href="https://www.akif.tech/"><img align="center" width="30px" src="images/website.png" /></a> &nbsp;&nbsp; <a href="mailto:akiif.dev@gmail.com"><img align="center" width="30px" src="images/mail.png" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/akif-mohammed/"><img align="center" width="30px" src="images/linkedin.png" /></a> &nbsp;&nbsp;  
-<a href="https://twitter.com/akiif_m"><img align="center" width="30px" src="images/twitter.png" /></a> &nbsp;&nbsp; 
-<a href="https://www.instagram.com/akiif.m/"><img align="center" width="30px" src="images/instagram.png" /></a>
+  <a href="https://akiif.dev/"><img align="center" width="30px" src="images/website.png" /></a> &nbsp;&nbsp; <a href="mailto:akiif.dev@gmail.com"><img align="center" width="30px" src="images/mail.png" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akif-mohammed/"><img align="center" width="30px" src="images/linkedin.png" /></a> &nbsp;&nbsp;  
+  <a href="https://twitter.com/akiif_m"><img align="center" width="30px" src="images/twitter.png" /></a> &nbsp;&nbsp; 
+  <a href="https://www.instagram.com/akiif.m/"><img align="center" width="30px" src="images/instagram.png" /></a>
 </p>
