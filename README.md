@@ -52,11 +52,12 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiif&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akiif&theme=neon-dark)](https://git.io/streak-stats)
+
 
 </div>
 
-[![Akif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
+[![Akif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
 
 ---
 
